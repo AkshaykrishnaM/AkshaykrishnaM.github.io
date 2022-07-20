@@ -21,7 +21,7 @@ window.onload = () => {
      acknowledges: 
      "No acknowledgements😥",
     contact:
-      "You can contact me on any of following :<br><a href='https://t.me/hel1x3' class='success link'>Telegram</a>, <a href='https://www.instagram.com/_.ax5hay._/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/reach_krishna/' class='success link'>Twitter</a>, <a href='mailto:reach.akshaykrishna@gmail.com' class='success link'>Email</a>, <a href='https://api.whatsapp.com/send?phone=+919995978831' class='success link'>whatsapp</a>"
+      "You can contact me on any of following :<br><a href='https://t.me/hel1x3' class='success link'>Telegram</a>, <a href='https://www.instagram.com/_.ax5hay._/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/reach_krishna/' class='success link'>Twitter</a>, <a href='mailto:reach.akshaykrishna@gmail.com' class='success link'>Email</a>, <a href='https://wa.me/919995978831?text=Hey,%20enq%20from%20web' class='success link'>whatsapp</a>"
   };
   
   const  userInput = document.getElementById("userInput");
