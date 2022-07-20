@@ -24,7 +24,7 @@ p {
 }
 
 .sidebar {
-    background-color: rgb(0, 0, 0);
+    background-color: #032d6d;
     display: flex;
     align-items: center;
     flex-direction: column;
